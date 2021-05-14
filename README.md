@@ -6,14 +6,14 @@ The purpose of this project is to create a dynamic webpage to allow viewing of t
 ## Results
 The webpage is setup to be able to filter the data table of UFO sightings by different desired criteria.  The filters section of the website looks like the below image.
 
-[!alt_text](https://raw.githubusercontent.com/bweirich/UFOs/main/static/images/filters.PNG)
+![alt_text](https://raw.githubusercontent.com/bweirich/UFOs/main/static/images/filters.PNG)
 
 ### User Interaction
 Sample data was listed in each filter box to allow the user to view the format of each input field.
 
 The user can input the desired information to filter one or multiple columns at one time.  An example of the use of two of the filters, City and Shape, is shown below.  
 
-[!alt_text](https://raw.githubusercontent.com/bweirich/UFOs/main/static/images/filteredData.PNG)
+![alt_text](https://raw.githubusercontent.com/bweirich/UFOs/main/static/images/filteredData.PNG)
 
 This shows the table filtered by the city of "el cajon" and the shape of "triangle", only showing the table rows that have both criteria.
 
